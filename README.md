@@ -8,6 +8,10 @@ Figma-макет был сделан лишь для примерного пон
 - HTML, CSS, JavaScript
 - Bootstrap
 
+## План развития
+- Создать личный кабинет и систему авторизации
+- Запустить сайт на школьном хостинге
+
 ## Скриншоты 
 ![изображение](https://github.com/user-attachments/assets/0f6d0af0-5051-498f-98bd-c7dc2381a9b7) 
 ![изображение](https://github.com/user-attachments/assets/650a03f5-e918-4629-9a4d-baf9e41dcf47)
