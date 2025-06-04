@@ -1,0 +1,17 @@
+/* import general style */
+
+@import url('../css/main.css');
+
+/*=============Person style css=========*/
+
+/* content */
+
+.person-content {padding: 10vh 0 5vh 0;}
+.start-img{display: flex; justify-content: center;}
+.person-text h1{ text-align: center; margin: 4vh 0;}
+
+/* carousel */
+
+.carousel-item img{max-width: 100%; max-height: 100%; margin: 0 auto;}
+.carousel{height: 100%; margin-top: 5vh;}
+.carousel-caption{font-size: 'Montserrat'; font-size: 18px; color: white; font-weight: bold; background-color: rgba(0, 0, 0, 0.4); box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4);}
