@@ -18,8 +18,9 @@ Figma-макет был сделан лишь для примерного пон
 ![изображение](https://github.com/user-attachments/assets/a6a13dcf-8154-437e-9ce1-93c453df9e01)
 
 ## Установка
-'''bash 
+```bash 
 git clone https://github.com/DeSads/TvorTim.git
 cd TvorTim
 npm install
 npm start
+```
